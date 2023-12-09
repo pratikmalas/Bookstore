@@ -1,0 +1,186 @@
+{
+    "bookstore": [
+        {
+          "id": 1,
+          "title": "The Great Gatsby",
+          "author": "F. Scott Fitzgerald",
+          "genre": "Classic",
+          "price": 12.99,
+          "availability": true,
+          "image": "https://images.unsplash.com/photo-1576872381149-7847515ce5d8?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8NHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "id": 2,
+          "title": "To Kill a Mockingbird",
+          "author": "Harper Lee",
+          "genre": "Fiction",
+          "price": 14.99,
+          "availability": true,
+          "image": "https://images.unsplash.com/photo-1576872381149-7847515ce5d8?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8NHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "id": 3,
+          "title": "1984",
+          "author": "George Orwell",
+          "genre": "Dystopian",
+          "price": 10.99,
+          "availability": false,
+          "image": "https://images.unsplash.com/photo-1576872381149-7847515ce5d8?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8NHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "id": 4,
+          "title": "The Hobbit",
+          "author": "J.R.R. Tolkien",
+          "genre": "Fantasy",
+          "price": 16.99,
+          "availability": true,
+          "image": "https://images.unsplash.com/photo-1576872381149-7847515ce5d8?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8NHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "id": 5,
+          "title": "Pride and Prejudice",
+          "author": "Jane Austen",
+          "genre": "Romance",
+          "price": 11.99,
+          "availability": true,
+          "image": "https://images.unsplash.com/photo-1576872381149-7847515ce5d8?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8NHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "id": 6,
+          "title": "The Catcher in the Rye",
+          "author": "J.D. Salinger",
+          "genre": "Coming-of-age",
+          "price": 13.99,
+          "availability": true,
+          "image": "https://images.unsplash.com/photo-1576872381149-7847515ce5d8?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8NHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "id": 7,
+          "title": "Harry Potter and the Sorcerer's Stone",
+          "author": "J.K. Rowling",
+          "genre": "Fantasy",
+          "price": 15.99,
+          "availability": true,
+          "image": "https://images.unsplash.com/photo-1576872381149-7847515ce5d8?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8NHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "id": 8,
+          "title": "The Da Vinci Code",
+          "author": "Dan Brown",
+          "genre": "Mystery",
+          "price": 14.49,
+          "availability": false,
+          "image": "https://images.unsplash.com/photo-1576872381149-7847515ce5d8?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8NHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "id": 9,
+          "title": "The Lord of the Rings",
+          "author": "J.R.R. Tolkien",
+          "genre": "Fantasy",
+          "price": 19.99,
+          "availability": true,
+          "image": "https://images.unsplash.com/photo-1576872381149-7847515ce5d8?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8NHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "id": 10,
+          "title": "The Shining",
+          "author": "Stephen King",
+          "genre": "Horror",
+          "price": 16.99,
+          "availability": true,
+          "image": "https://images.unsplash.com/photo-1576872381149-7847515ce5d8?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8NHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "id": 11,
+          "title": "Brave New World",
+          "author": "Aldous Huxley",
+          "genre": "Dystopian",
+          "price": 12.49,
+          "availability": true,
+          "image": "https://images.unsplash.com/photo-1576872381149-7847515ce5d8?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8NHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "id": 12,
+          "title": "The Hunger Games",
+          "author": "Suzanne Collins",
+          "genre": "Science Fiction",
+          "price": 11.99,
+          "availability": false,
+          "image": "https://images.unsplash.com/photo-1576872381149-7847515ce5d8?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8NHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "id": 13,
+          "title": "The Alchemist",
+          "author": "Paulo Coelho",
+          "genre": "Philosophical",
+          "price": 14.99,
+          "availability": true,
+          "image": "https://images.unsplash.com/photo-1576872381149-7847515ce5d8?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8NHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "id": 14,
+          "title": "Frankenstein",
+          "author": "Mary Shelley",
+          "genre": "Gothic",
+          "price": 13.49,
+          "availability": true,
+          "image": "https://images.unsplash.com/photo-1576872381149-7847515ce5d8?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8NHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "id": 15,
+          "title": "Moby-Dick",
+          "author": "Herman Melville",
+          "genre": "Adventure",
+          "price": 18.99,
+          "availability": true,
+          "image": "https://images.unsplash.com/photo-1576872381149-7847515ce5d8?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8NHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "id": 16,
+          "title": "The Road",
+          "author": "Cormac McCarthy",
+          "genre": "Post-Apocalyptic",
+          "price": 15.49,
+          "availability": true,
+          "image": "https://images.unsplash.com/photo-1576872381149-7847515ce5d8?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8NHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "id": 17,
+          "title": "The Chronicles of Narnia",
+          "author": "C.S. Lewis",
+          "genre": "Fantasy",
+          "price": 17.99,
+          "availability": true,
+          "image": "https://images.unsplash.com/photo-1576872381149-7847515ce5d8?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8NHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "id": 18,
+          "title": "One Hundred Years of Solitude",
+          "author": "Gabriel García Márquez",
+          "genre": "Magical Realism",
+          "price": 16.99,
+          "availability": true,
+          "image": "https://images.unsplash.com/photo-1576872381149-7847515ce5d8?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8NHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "id": 19,
+          "title": "The Hitchhiker's Guide to the Galaxy",
+          "author": "Douglas Adams",
+          "genre": "Science Fiction",
+          "price": 14.99,
+          "availability": true,
+          "image": "https://images.unsplash.com/photo-1576872381149-7847515ce5d8?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8NHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "id": 20,
+          "title": "The Princess Bride",
+          "author": "William Goldman",
+          "genre": "Fantasy",
+          "price": 11.99,
+          "availability": false,
+          "image": "https://images.unsplash.com/photo-1576872381149-7847515ce5d8?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8NHx8fGVufDB8fHx8fA%3D%3D"
+        }
+      ]
+    }
+  
+  
